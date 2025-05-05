@@ -7,7 +7,7 @@ class Program
         Diary diary = new Diary();
         while (true)
         {
-            Console.WriteLine("\nDigital Diary");
+            Console.WriteLine("\n=== Digital Diary ===");
             Console.WriteLine("1. Write a New Entry");
             Console.WriteLine("2. View All Entries");
             Console.WriteLine("3. Search Entry by Date (YYYY-MM-DD)");
