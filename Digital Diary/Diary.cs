@@ -4,7 +4,7 @@ using System.Net;
 
 public class Diary
 {
-    private readonly string filePath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "diary.txt");
+    private readonly string filePath = Path.Combine(Directory.GetCurrentDirectory(), "diary.txt");
 
     public void WriteEntry(string text)
     {
