@@ -135,7 +135,7 @@ DigitalDiary/
 ## <a id = "proj_output"> 📝 Sample Output </a> 
 ## <a id = "proj_developer"> 📝 Project Developer </a> 
 <p align="center">
-   <img src="ReadMe/Developer.png" alt="Header="max-width: 100%; height: auto;">
+   <img src="ReadMe/Developers.png" alt="Header="max-width: 100%; height: auto;">
 </p>
 
 ### 🌟Meet the Developers🌟
@@ -146,10 +146,10 @@ The **Digital Diary** project was developed by second-year Computer Science stud
 For further information or inquiries, below are the contact details of the developers:
 | **Name**            | **Gmail**                | **GitHub**               |
 |---------------------|--------------------------|--------------------------|
-| **De Castro, Angel Lyka Mae**    | 23-09904@g.batstate-u.edu.ph     | [GitHub Profile](https://github.com/developer1) |
+| **De Castro, Angel Lyka Mae**    | 23-09904@g.batstate-u.edu.ph     | [GitHub Profile](https://github.com/Decastro122604) |
 | **Crisostomo, Erix Steven**    | 23-01893@g.batstate-u.edu.ph     | [GitHub Profile](https://github.com/developer2) |
-| **Nunez, Nigel Hans**    | 23-07848@g.batstate-u.edu.ph    | [GitHub Profile](https://github.com/developer3) |
-| **Vael, Anthonina Dhapniella C.**   | 23-04485@g.batstate-u.edu.ph     | [GitHub Profile](https://github.com/developer4) |
+| **Nunez, Nigel Hans**    | 23-07848@g.batstate-u.edu.ph    | [GitHub Profile](https://github.com/NigelHans) |
+| **Vael, Anthonina Dhapniella C.**   | 23-04485@g.batstate-u.edu.ph     | [GitHub Profile](https://github.com/andavael) |
 <br>
 
 ## <a id = "proj_acknowledge"> 📝 Acknowledgement </a> 
