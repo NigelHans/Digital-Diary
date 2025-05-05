@@ -13,7 +13,7 @@ public class Diary
             string entry = $"[{DateTime.Now:yyyy-MM-dd}] [{DateTime.Now:HH:mm:ss}] {text}";
             sw.WriteLine(entry);
         }
-        Console.WriteLine("Entry saved successfully!");
+        Console.WriteLine("\nEntry saved successfully!");
     }
 
     public void ViewAllEntries()
