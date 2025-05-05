@@ -26,7 +26,7 @@ Explore this repository and start writing your story, one entry at a time. 📝
 **Here's a glimpse of what it can do:**
 
 <p align="center">
-   <img src="ReadMe/Features.png" alt="Header="max-width: 100%; height: auto;">
+   <img src="ReadMe/Features.png" alt="Feature="max-width: 100%; height: auto;">
 </p>
 
 
@@ -104,10 +104,46 @@ dotnet run
 ---
 
 ## <a id = "proj_direct"> 📝 Directory Map </a> 
+The directory structure of **Digital Diary** is designed to keep the project organized, making it easier to manage code, configuration files, and build outputs. Below is an overview of the different folders and files within the project, providing a clear picture of where everything is located and how it's structured:
+```
+DigitalDiary/
+├── .idea/ <-- Rider project settings
+│ └── .idea.Digital/ <-- Metadata files
+│ └── .idea/
+│ ├── .gitignore
+│ ├── aws.xml
+│ ├── encoding.xml
+│ ├── indexLayout.xml
+│ ├── vcs.xml
+├── bin/ <-- Build output (e.g., Debug/Release folders)
+│ └── Debug/
+│ └── net9.0/
+│ ├── Digital Diary.deps.json
+│ ├── Digital Diary.dll
+│ ├── Digital Diary.exe
+│ ├── Digital Diary.pdb
+│ ├── Digital Diary.runtimeconfig.json
+│ └── diary.txt <-- Saved Built Diaries txt file
+├── obj/ <-- Temporary build object files
+│ └── ...
+├── Diary.cs <-- Diary class file
+├── Program.cs <-- Main program file with UI
+├── diary.txt <-- Created at runtime to store entries
+├── DigitalDiary.csproj <-- Project configuration file
+└── README.md <-- ReadMe file
+```
 ## <a id = "proj_output"> 📝 Sample Output </a> 
+The diagram below provides a visual demonstration of how the Digital **Diary application** behaves during **runtime**. It is divided into three key parts to give a clear understanding of the user experience:
+<p align="center">
+   <img src="ReadMe/Output.png" alt="Output="max-width: 100%; height: auto;">
+</p>
+
+> **Each console screen output is shown exactly as it appears when using the application, offering a real glimpse of its user-friendly interface and validation features.**
+<br>
+
 ## <a id = "proj_developer"> 📝 Project Developer </a> 
 <p align="center">
-   <img src="ReadMe/Developer.png" alt="Header="max-width: 100%; height: auto;">
+   <img src="ReadMe/Developers.png" alt="Developer="max-width: 100%; height: auto;">
 </p>
 
 ### 🌟Meet the Developers🌟
@@ -118,10 +154,10 @@ The **Digital Diary** project was developed by second-year Computer Science stud
 For further information or inquiries, below are the contact details of the developers:
 | **Name**            | **Gmail**                | **GitHub**               |
 |---------------------|--------------------------|--------------------------|
-| **De Castro, Angel Lyka Mae**    | 23-09904@g.batstate-u.edu.ph     | [GitHub Profile](https://github.com/developer1) |
+| **De Castro, Angel Lyka Mae**    | 23-09904@g.batstate-u.edu.ph     | [GitHub Profile](https://github.com/Decastro122604) |
 | **Crisostomo, Erix Steven**    | 23-01893@g.batstate-u.edu.ph     | [GitHub Profile](https://github.com/developer2) |
-| **Nunez, Nigel Hans**    | 23-07848@g.batstate-u.edu.ph    | [GitHub Profile](https://github.com/developer3) |
-| **Vael, Anthonina Dhapniella C.**   | 23-04485@g.batstate-u.edu.ph     | [GitHub Profile](https://github.com/developer4) |
+| **Nunez, Nigel Hans**    | 23-07848@g.batstate-u.edu.ph    | [GitHub Profile](https://github.com/NigelHans) |
+| **Vael, Anthonina Dhapniella C.**   | 23-04485@g.batstate-u.edu.ph     | [GitHub Profile](https://github.com/andavael) |
 <br>
 
 ## <a id = "proj_acknowledge"> 📝 Acknowledgement </a> 
