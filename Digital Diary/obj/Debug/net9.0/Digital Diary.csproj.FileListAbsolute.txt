@@ -1,0 +1,15 @@
+C:\Users\Nigel G Nuñez\RiderProjects\Digital Diary\Digital Diary\bin\Debug\net9.0\Digital Diary.exe
+C:\Users\Nigel G Nuñez\RiderProjects\Digital Diary\Digital Diary\bin\Debug\net9.0\Digital Diary.deps.json
+C:\Users\Nigel G Nuñez\RiderProjects\Digital Diary\Digital Diary\bin\Debug\net9.0\Digital Diary.runtimeconfig.json
+C:\Users\Nigel G Nuñez\RiderProjects\Digital Diary\Digital Diary\bin\Debug\net9.0\Digital Diary.dll
+C:\Users\Nigel G Nuñez\RiderProjects\Digital Diary\Digital Diary\bin\Debug\net9.0\Digital Diary.pdb
+C:\Users\Nigel G Nuñez\RiderProjects\Digital Diary\Digital Diary\obj\Debug\net9.0\Digital Diary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nigel G Nuñez\RiderProjects\Digital Diary\Digital Diary\obj\Debug\net9.0\Digital Diary.AssemblyInfoInputs.cache
+C:\Users\Nigel G Nuñez\RiderProjects\Digital Diary\Digital Diary\obj\Debug\net9.0\Digital Diary.AssemblyInfo.cs
+C:\Users\Nigel G Nuñez\RiderProjects\Digital Diary\Digital Diary\obj\Debug\net9.0\Digital Diary.csproj.CoreCompileInputs.cache
+C:\Users\Nigel G Nuñez\RiderProjects\Digital Diary\Digital Diary\obj\Debug\net9.0\Digital Diary.dll
+C:\Users\Nigel G Nuñez\RiderProjects\Digital Diary\Digital Diary\obj\Debug\net9.0\refint\Digital Diary.dll
+C:\Users\Nigel G Nuñez\RiderProjects\Digital Diary\Digital Diary\obj\Debug\net9.0\Digital Diary.pdb
+C:\Users\Nigel G Nuñez\RiderProjects\Digital Diary\Digital Diary\obj\Debug\net9.0\Digital Diary.genruntimeconfig.cache
+C:\Users\Nigel G Nuñez\RiderProjects\Digital Diary\Digital Diary\obj\Debug\net9.0\ref\Digital Diary.dll
+C:\Users\Nigel G Nuñez\RiderProjects\Digital Diary\Digital Diary\obj\Debug\net9.0\Digital Diary.sourcelink.json
