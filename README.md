@@ -26,7 +26,7 @@ Explore this repository and start writing your story, one entry at a time. 📝
 **Here's a glimpse of what it can do:**
 
 <p align="center">
-   <img src="ReadMe/Features.png" alt="Header="max-width: 100%; height: auto;">
+   <img src="ReadMe/Features.png" alt="Feature="max-width: 100%; height: auto;">
 </p>
 
 
@@ -133,9 +133,17 @@ DigitalDiary/
 └── README.md <-- ReadMe file
 ```
 ## <a id = "proj_output"> 📝 Sample Output </a> 
+The diagram below provides a visual demonstration of how the Digital **Diary application** behaves during **runtime**. It is divided into three key parts to give a clear understanding of the user experience:
+<p align="center">
+   <img src="ReadMe/Output.png" alt="Output="max-width: 100%; height: auto;">
+</p>
+
+> **Each console screen output is shown exactly as it appears when using the application, offering a real glimpse of its user-friendly interface and validation features.**
+<br>
+
 ## <a id = "proj_developer"> 📝 Project Developer </a> 
 <p align="center">
-   <img src="ReadMe/Developers.png" alt="Header="max-width: 100%; height: auto;">
+   <img src="ReadMe/Developers.png" alt="Developer="max-width: 100%; height: auto;">
 </p>
 
 ### 🌟Meet the Developers🌟
